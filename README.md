@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# MERN Project Vercel
 
 > Social network for developers
 
